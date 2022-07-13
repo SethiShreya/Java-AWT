@@ -1,6 +1,6 @@
 import java.awt.*;  
 import java.awt.event.*;  
-public class MouseListenerExample extends Frame implements MouseListener{  
+public class Question27 extends Frame implements MouseListener{  
     Label l;  
     MouseListenerExample(){  
         addMouseListener(this);  
