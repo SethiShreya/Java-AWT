@@ -2,7 +2,7 @@ import java.applet.*;
 
 import java.awt.*;
 
-public class Banner extends Applet implements Runnable
+public class Question25 extends Applet implements Runnable
 
 {
 
